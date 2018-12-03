@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>templates/sample.html</file>
+        <file>scripts/test.js</file>
+    </qresource>
+</RCC>
